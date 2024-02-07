@@ -107,4 +107,4 @@ let mobil = {
     Tahun : "2000",
 }
 console.log(mobil);
-console.log(mobil.nama);
+console.log("Nama mobil " + mobil.nama);
